@@ -156,7 +156,7 @@ function muveletPostController(req, res) {
             szorozPostController(req, res);
             break;
         case "/":
-            szorozPostController(req, res);
+            osztasPostController(req, res);
             break;
         default:
             res.status(400);
