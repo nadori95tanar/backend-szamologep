@@ -1,0 +1,23 @@
+{
+  "name": "backend-szamologep",
+  "version": "1.0.0",
+  "description": "Egy számológép alkalmazás backendje",
+  "private": true,
+  "main": "./src/app.js",
+  "scripts": {
+    "start": "node ./src/app.js",
+    "dev": "nodemon"
+  },
+  "keywords": [
+    "Node.js",
+    "Express.js"
+  ],
+  "author": "NAS",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
