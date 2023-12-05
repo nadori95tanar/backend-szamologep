@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "editorconfig.editorconfig",
+        "ecmel.vscode-html-css",
+        "ritwickdey.liveserver",
+        "christian-kohler.path-intellisense"
+    ]
+}
